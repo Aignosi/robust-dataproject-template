@@ -1,4 +1,4 @@
-rpobust-dataprojects-template
+robust-dataprojects-template
 =============================
 
 Template repository with Cookie Cutter Infrastructure that can be forked for every new Data Science project in your organization. It aims to provide a guideline on how to start your project with a more **robust infrastructure** than just using jupyter notebooks.
