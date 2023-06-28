@@ -63,7 +63,7 @@ They can indeed! However, the person who opts to use it will have to at some poi
 migrate the codes in *.py* format to the project pipeline. This may result in more rework and inefficiency, but it is important to trust that each professional will make a good judgment of whether or not to use Jupyter (or use it at the right time, such as for good documentation with exploratory analysis code). Remember also that using Jupyter prevents observation of differences between .ipynb files, making code versioning difficult.
 
 See in the figure below how easy it is to have the [interactivity of a jupyter in VS Code](https://code.visualstudio.com/docs/python/jupyter-support-py)
-![interactive cells with vscode](/images/interactive_cells_with_vscode.gif)
+![interactive cells with vscode](/docs/images/interactive_cells_with_vscode.gif)
 
 **Important**: if you do not feel comfortable going directly to the tutorial, we recommend this excellent course from the company that created dvc (data versioning control), iterative.ai. The link is in this short [Introductory course on the use of dvc and basic MLOps fundamentals in projects](https://learn.iterative.ai/)
 
