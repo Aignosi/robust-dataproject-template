@@ -1,4 +1,4 @@
-sientia-projects-xxx-template
+rpobust-dataprojects-template
 =============================
 
 Template repository with Cookie Cutter Infrastructure that can be forked for every new Data Science project in your organization. It aims to provide a guideline on how to start your project with a more **robust infrastructure** than just using jupyter notebooks.
@@ -69,12 +69,12 @@ See in the figure below how easy it is to have the [interactivity of a jupyter i
 
 ## Step by step to set up a new data project using the proposed new structure
 
-1. In your git tool (github, for example), create a new repository on the project you will work on (check if there is any taxonomy to be followed for creating this name)
+1. In your git tool (github, for example), create a new repository on the project you will work on (check if there is any taxonomy to be followed for creating this name). **Please do not include `README.md` neither `.gitignore` files at the creation of the repo.
 
-2. Clone this **Template** project repository available [here at this link](https://github.com/Aignosi/sientia-projects-xxx-template) or copy and paste the piece of code below:
+2. Clone this **Template** project repository available [here at this link](https://github.com/Aignosi/robust-dataproject-template) or copy and paste the piece of code below:
 
 ```
-git clone https://github.com/Aignosi/sientia-projects-xxx-template.git
+git clone https://github.com/Aignosi/robust-dataproject-template.git
 ```
 
 3. Rename the directory that was created locally using the same name of the remote repository (created in step 01)
